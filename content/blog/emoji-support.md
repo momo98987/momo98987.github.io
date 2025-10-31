@@ -1,4 +1,4 @@
----
++++
 author = ""
 title = "Emoji Support"
 date = "2019-03-05"
@@ -7,9 +7,7 @@ tags = [
     "emoji",
     "hugo-basic-example",
 ]
-
----
-
++++
 
 Emoji can be enabled in a Hugo project in a number of ways. 
 <!--more-->
