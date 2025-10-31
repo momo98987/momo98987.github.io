@@ -9,6 +9,7 @@ tags : [
     "html",
     "hugo-basic-example",
 ]
+src: ./alexandre-van-thuan-mr9FouttLGY-unsplash.jpg
 categories : [
     "themes",
     "syntax",
