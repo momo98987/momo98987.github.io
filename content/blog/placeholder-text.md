@@ -1,14 +1,14 @@
-+++
-author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
-tags = [
+---
+author : "ZHIHUI SHULIAN"
+title : "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
+date : "2019-06-09"
+description : "During my participation in the Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System project, I was fully involved in the entire process from technical solution design to system implementation and testing. Focusing on the pain points of rolling bearing operation and maintenance, the project integrates digital twin, deep learning and other technologies to build an intelligent system featuring virtual-real interaction and accurate diagnosis. It aims to solve problems such as low efficiency of traditional regular maintenance and difficulty in fault identification under complex working conditions, and promote the digital upgrading of the equipment manufacturing industry. The details are elaborated from two aspects: core functions and target tasks."
+tags : [
     "markdown",
     "text",
     "hugo-basic-example",
 ]
-+++
+---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
