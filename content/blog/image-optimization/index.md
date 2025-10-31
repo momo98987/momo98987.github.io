@@ -1,6 +1,5 @@
 ---
-title: "Image Optimization"
-date: "2021-10-16T23:51:37+02:00"
+title: " ILight Holographic Perception Smart Transportation Project"
 comments: false
 socialShare: true
 toc: true
@@ -13,16 +12,10 @@ cover:
   caption: By [Alexandre Van Thuan](https://unsplash.com/photos/mr9FouttLGY)
 ---
 
-The theme optimizes images by default with a custom
-[Hugo's markdown render hook](https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks):
+During my participation in the ILight Holographic Perception Smart Transportation Project, I was deeply involved in the entire process from technology R&D to practical implementation. With the core goal of "solving urban traffic pain points and building a new smart transportation ecosystem", the project integrates cutting-edge technologies to create a "cloud-edge-end" collaborative smart transportation solution. The details can be elaborated from two aspects: core functions and target tasks.
 
-- The theme creates resized versions for each image, ranging from 100 to 700
-  pixels wide.
-- It generates [WebP](https://en.wikipedia.org/wiki/WebP) versions for each size
-  if the original image format isn't WebP.
-- The theme keeps the original file format as a fallback for browsers that
-  [don't support the WebP format](https://caniuse.com/webp).
-- Images in SVG format are embedded as-is.
+- Core Functions: Building a "Three Modules + One Platform"     Technical Closed Loop
+- Target Tasks: From Technology Implementation to Value Realization
 
 ## PROJECTS
 
