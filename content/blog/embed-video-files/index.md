@@ -1,14 +1,13 @@
 ---
-title: "Embed Video Files"
-date: "2022-04-26T01:16:18+02:00"
+title: "My Video"
+date: "2025-10-24T01:16:18+02:00"
 draft: false
 comments: false
 socialShare: true
 toc: false
 ---
 
-Use the [video shortcode](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html)
-to embed your video files from [Hugo Page Resources](https://gohugo.io/content-management/page-resources/).
+[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo)
 
 {{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
 
