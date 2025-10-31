@@ -70,6 +70,6 @@ jobs:
         with:
             branch: gh-pages
             folder: public
-            # token: ${{ secrets.ACCESSTOKEN }}
+            token: ${{ secrets.ACCESSTOKEN }}
             # clean: true
             single-commit: true
