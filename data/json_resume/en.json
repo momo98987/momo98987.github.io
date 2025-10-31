@@ -1,46 +1,35 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
+    "name": "Mochi ZHANG",
+    "label": "Robotics Postgraduate & Full-Stack Developer",
     "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "email": "zmcjay@gmail.com",
+    "phone": "+44 07344369462",
+    "summary": " Postgraduate student majoring in Robotics at the University of Manchester, UK. He studied Software Engineering during his undergraduate studies and has built a solid technical foundation. In terms of technical capabilities, he is proficient in full-stack development: he can independently develop interfaces for web pages and applications on the front-end, and build logical architectures independently on the back-end. Meanwhile, he has systematic practical experience in the entire software development process and design patterns.",
     "location": {
-      "city": "San Francisco"
+      "city": "China"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "username": "momo98987",
+        "url": "https://github.com/momo98987/momo98987.github.io"
       },
       {
         "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
+        "username": "momo98987",
+        "url": "https://github.com/momo98987/momo98987.github.io"
       },
       {
         "network": "X",
-        "url": "https://x.com/SiliconHBO"
+        "url": "https://x.com/momozha41134699"
       },
       {
         "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "url": "https://community.fandom.com/wiki/User:Momo98987"
       }
+     
     ]
   },
   "work": [

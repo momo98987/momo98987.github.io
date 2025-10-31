@@ -82,7 +82,7 @@ Add the following to the `hugo.toml` file:
   [[module.imports]]
     path = "github.com/schnerring/hugo-mod-json-resume"
     [[module.imports.mounts]]
-      # This will add the sample Richard Hendricks CV data
+      # This will add the sample Mochi ZHANG CV data
       source = "data"
       target = "data"
     [[module.imports.mounts]]

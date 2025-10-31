@@ -1,18 +1,20 @@
 ---
-title: "Prism Code Highlighting Showcase"
-date: "2021-07-28T04:25:37+02:00"
+title: "Backend & Data Practice: Solidifying the Technical Foundation"
 comments: false
 socialShare: true
 toc: true
 ---
 
-This theme uses [Prism](https://prismjs.com/) for code highlighting. Other Hugo
-themes usually include a pre-configured version of Prism, which complicates
-updates and clutters the source code base with third-party JavaScript.
-
-Only the Prism features you select in the Hugo site configuration are bundled by
-the build process. This way, Prism can be easily updated with `npm` and the size
-of the JavaScript and CSS bundles are minimized by only including what you need.
+In backend development, I focus on building services with Java + SpringBoot as
+the core. I participated in the microservice transformation of a course-based
+e-commerce demo, integrating basic tools to resolve data consistency issues
+between "orders and inventory," and optimized interface response time by 30%.
+Meanwhile, I leverage the efficiency of Python: I crawled public industry data
+using Python + Scrapy, and combined Pandas for data cleaning and Matplotlib for
+visualization to provide data support for the "user behavior analysis" module in
+course projects. Additionally, I completed a small embedded project with C language,
+optimizing the communication protocol parsing logic of simple devices to deepen my
+understanding of underlying technologies.
 
 <!--more-->
 

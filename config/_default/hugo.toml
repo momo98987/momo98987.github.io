@@ -1,6 +1,6 @@
-baseURL = "http://localhost"
+baseURL = "https://goofish-shop.github.io/hugo-theme-gruvbox/"
 copyright = "Copyright © 2021"
-title = "hugo-theme-gruvbox"
+title = "All about me"
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header

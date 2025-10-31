@@ -24,7 +24,7 @@ The theme optimizes images by default with a custom
   [don't support the WebP format](https://caniuse.com/webp).
 - Images in SVG format are embedded as-is.
 
-## Blog Post Cover Images
+## Frontend & User Experience: Bridging Technology and Perception
 
 Use the [front matter](https://gohugo.io/content-management/front-matter/) of
 your posts to add cover images:

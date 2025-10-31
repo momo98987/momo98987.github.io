@@ -17,7 +17,7 @@ This theme depends on the following projects:
 
 A big thanks to the creators! ❤️
 
-The [profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
+The [profile picture of Mochi ZHANG is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
 
 ## Legal
 

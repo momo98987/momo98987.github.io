@@ -4,15 +4,15 @@ on:
   push:
     branches:
       - main
+      - master
+      
 
 jobs:
   update_hugo_npm_dependencies:
     name: Update Hugo npm Dependencies
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    outputs:
-      commit_hash: ${{ steps.commit_changes.outputs.commit_hash }}
+
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -34,24 +34,13 @@ jobs:
       - name: Install npm Packages
         run: npm install
 
-      - name: Display Changes
-        run: git status
 
-      - name: Commit Changes
-        id: commit_changes
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          commit_message: Update Hugo npm Dependencies
-          commit_author:
-            renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
 
   publish:
     name: Publish Hugo Site
     needs: update_hugo_npm_dependencies
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      deployments: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -76,11 +65,11 @@ jobs:
       - name: Build Hugo
         run: hugo --minify
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: hugo-theme-gruvbox
-          directory: ./public
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+            branch: gh-pages
+            folder: public
+            # token: ${{ secrets.ACCESSTOKEN }}
+            # clean: true
+            single-commit: true
