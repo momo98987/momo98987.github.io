@@ -32,113 +32,227 @@
      
     ]
   },
+  
+ 
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Tianjin Aiying Technology Co., Ltd. (IBM-ETP Training Base)",
+      "location": "Tianjin, China",
+      "description": "Technology company focusing on IT training and software development",
+      "position": "Java Back-end Program Development Trainee & Group Project Leader",
+      "url": "",
+      "startDate": "2023-12-01",
+      "endDate": "2024-01-31",
+      "summary": "Engaged in Java back-end development and led team project implementation, focusing on system function development and security optimization",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Used IDE tools to build SpringBoot framework, integrated Mybatis-plus, and implemented basic database CRUD operations",
+        "Solved Nurse Rostering Problem (NRP) using greedy algorithm and branch-and-bound method, realizing personalized scheduling function",
+        "Implemented image storage by applying OSS and Redis, and configured related dependencies and service interfaces",
+        "Combined Sa-token and Redis to achieve dual-token triple authentication, enhancing system security",
+        "Responsible for team management, task assignment and progress supervision"
+      ]
+    },
+    {
+      "name": "Hegang Digital Technology Joint-Stock Limited Company",
+      "location": "Hegang, China",
+      "description": "Digital technology enterprise focusing on industrial data management and intelligent detection",
+      "position": "Software Research & Development Intern",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-31",
+      "summary": "Participated in the development of industrial production data systems and intelligent detection solutions, focusing on efficiency improvement and carbon reduction",
+      "highlights": [
+        "Contributed to the development of industrial production data collection, management methods and carbon accounting systems",
+        "Assisted in building micro-target detection methods for real-time monitoring and micro-defect detection methods for edge equipment deployment",
+        "Optimized energy-intensive equipment to reduce idle time and improve energy efficiency, expecting 15-20% carbon emission reduction",
+        "Improved inspection accuracy to over 95%, increasing efficiency by 70% compared with traditional manual inspection"
+      ]
+    },
+    {
+      "name": "Tianjin Ruochuang Ruantong Technology Co., Ltd.",
+      "location": "Tianjin, China",
+      "description": "Software company specializing in back-end development and system testing",
+      "position": "Java Back-end Program Development Trainee & Group Project Leader",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-31",
+      "summary": "Led the team in back-end framework construction, interface development and performance testing, focusing on high-concurrency scenarios",
+      "highlights": [
+        "Led the team to build SpringBoot framework, compile and test back-end interfaces, and design databases",
+        "Used IDE tools to build SpringBoot framework, integrated Mybatis-plus, and implemented basic database CRUD operations",
+        "Configured various script parameters with JMeter to conduct functional and system stress testing",
+        "Set up Redis cluster to implement distributed caching, and used JMeter for stress testing under high concurrency",
+        "Applied NATAPP to expose local ports to the public network, implemented Alipay sandbox simulation, tested payment API and processed return values"
+      ]
+    },
+    {
+      "name": "Tianjin Zhongruan Zhuoyue Information Technology Co., Ltd.",
+      "location": "Tianjin, China",
+      "description": "IT enterprise focusing on web front-end development and responsive service implementation",
+      "position": "Web Front-end Development Trainee",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "summary": "Engaged in web front-end development, focusing on environment construction and responsive function realization",
+      "highlights": [
+        "Built basic HTML environment with Hbuilder and implemented CSS and JS file development",
+        "Realized responsive front-end services using Vue.js, configured global navigation guards with 'router' and performed asynchronous route interception via 'router.beforeEach'"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "institution": "Tiangong University",
+      "url": "https://www.tjpu.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-09-01",
+      "endDate": "2025-07-31",
+      "score": "3.58/4.00 (Pending)",
+      "courses": [
+        "R Language Design",
+        "Digital Image Processing",
+        "Software Modelling",
+        "Non-Relational Database Technology",
+        "Principles of Computer Composition",
+        "Computer Networks",
+        "Data Structure",
+        "Operating Systems",
+        "Software Quality Assurance and Testing",
+        "Software Project Management",
+        "Application of Internet of Things Technology",
+        "Big Data Analytics Technology",
+        "Web Design"
+      ],
+      "highlights": [
+        "Proficient in technical tools: JAVA, C/C++, Python, Git, Maven, Springboot, MyBatis, MySQL, Apache Ajax, HTML5, Magicube Framework",
+        "Familiar with design software: Adobe Photoshop, Premiere, After Effects"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "title": "Significant Project Approval of China National University Student Innovation & Entrepreneurship Development Program",
+      "date": "2024-04-01",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "summary": "Predicted completion in May 2025"
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "title": "National First-class Award (Business Plan Track) - China University Business Elite Challenge",
+      "date": "2024-10-01",
+      "awarder": "China University Business Elite Challenge Organizing Committee",
+      "summary": "Innovation and Entrepreneurship Competition category"
+    },
+    {
+      "title": "Second-class Award (Undergraduate Creativity Group) - China International College Students’ Innovation Competition",
+      "date": "2024-08-01",
+      "awarder": "China International College Students’ Innovation Competition Organizing Committee",
+      "summary": "National-level college student innovation competition"
+    },
+    {
+      "title": "Provincial Silver Award - 2024 'Challenge Cup' Tianjin Entrepreneurship Planning Competition for University Students",
+      "date": "2024-08-01",
+      "awarder": "Tianjin 'Challenge Cup' Organizing Committee",
+      "summary": "Provincial-level entrepreneurship planning competition"
+    },
+    {
+      "title": "National Second-class Award - 2024 Internet+ Innovation and Entrepreneurship Competition",
+      "date": "2024-05-01",
+      "awarder": "Internet+ Innovation and Entrepreneurship Competition National Organizing Committee",
+      "summary": "National-level innovation and entrepreneurship competition"
+    },
+    {
+      "title": "National Third-class Award - 14th China Student Service Innovation and Entrepreneurship Competition",
+      "date": "2023-07-01",
+      "awarder": "14th China Student Service Innovation and Entrepreneurship Competition Organizing Committee",
+      "summary": "National-level student service innovation competition"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Java", "C/C++", "Python", "R"]
+    },
+    {
+      "name": "Back-end Development",
+      "level": "Advanced",
+      "keywords": ["SpringBoot", "MyBatis", "MyBatis-Plus", "Maven", "Redis", "MySQL"]
+    },
+    {
+      "name": "Front-end Development",
+      "level": "Intermediate",
+      "keywords": ["HTML5", "CSS", "JavaScript", "Vue.js", "Apache Ajax"]
+    },
+    {
+      "name": "Testing & Tools",
+      "level": "Intermediate",
+      "keywords": ["JMeter", "Git", "NATAPP", "OSS", "Sa-token"]
+    },
+    {
+      "name": "Design & Algorithms",
+      "level": "Intermediate",
+      "keywords": ["Adobe Photoshop", "Premiere", "After Effects", "Greedy Algorithm", "Branch-and-Bound Method", "YOLOv8", "GAN"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Chinese",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "language": "English",
+      "fluency": "Professional proficiency"
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Development of Virtual Fitting Technology Based on Intangible Cultural Heritage Clothing",
+      "description": "Major Project of China National University Student Innovation & Entrepreneurship Development Program, focusing on virtual fitting platform development for intangible cultural heritage clothing",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Developed an integrated intangible cultural heritage clothing platform with virtual fitting technology, supporting cloud computing, real-time dynamic simulation and personalized customization",
+        "Realized dynamic matching between virtual clothing and avatars using generator and discriminator game models, enhancing virtual fitting realism",
+        "Processed multi-position virtual fitting via Generative Adversarial Networks (GAN) to ensure natural transitions of virtual clothing in different poses",
+        "Obtained user facial information through mobile phone front camera and combined with 3D modeling technology to generate accurate virtual models",
+        "Enhanced clothing texture details and visual effects using computer vision technology",
+        "Provided immersive virtual fitting experience through Virtual Reality (VR) and Augmented Reality (AR) technologies",
+        "Supported team in building 3D body models with 3Ds Max and completing clothing modeling & simulation with APEX Clothing",
+        "Assisted in handling high concurrency requirements of the virtual fitting system and conducting complex calculations"
       ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
-      "type": "application"
+      "keywords": ["Virtual Fitting", "GAN", "3D Modeling", "VR", "AR", "Computer Vision", "Intangible Cultural Heritage"],
+      "startDate": "2024-04-01",
+      "endDate": "2025-05-31",
+      "roles": ["Core Developer", "Algorithm Researcher"],
+      "entity": "Tiangong University",
+      "type": "Academic Research"
+    },
+    {
+      "name": "Multi-Functional Intelligent Street Light Pioneer Based on IoT Sensing",
+      "description": "Academic project focusing on IoT-based intelligent street light system development, integrating urban management and traffic monitoring functions",
+      "highlights": [
+        "Built a data visualization platform to realize traffic flow analysis, emergency command, key vehicle scheduling, urban law enforcement and urban lighting system optimization",
+        "Integrated AI technology for traffic flow prediction, route planning and target detection",
+        "Optimized target detection network using deep learning algorithms (e.g., YOLOv8) to improve target recognition and tracking accuracy in complex environments",
+        "Enhanced traffic information positioning accuracy by combining GPS and WiFi, ensuring accurate transmission of vehicle location and road condition data",
+        "Used sensors and cameras for real-time collection of environmental and traffic data (e.g., traffic conditions, pollutant concentrations)",
+        "Assisted in hardware acceleration platform construction, multi-sensor data integration, smart city data visualization, energy-saving dimming and cloud-5G-IoT integration"
+      ],
+      "keywords": ["IoT", "Intelligent Street Light", "YOLOv8", "Data Visualization", "GPS", "5G", "Deep Learning"],
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-31",
+      "roles": ["Developer", "Data Collector"],
+      "entity": "Tiangong University",
+      "type": "Academic Project"
     }
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2024-10-01"
   }
 }
+
