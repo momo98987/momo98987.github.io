@@ -37,7 +37,7 @@ type file is used as `poster` (thumbnail). It will render the following HTML:
 <video
   autoplay
   loop
-  poster="/blog/embed-videos/my-video.jpg"
+  poster="/blog/embed-videos/my-video.mp4"
   width="100%"
   playsinline
 >
