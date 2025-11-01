@@ -5,11 +5,12 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+
 ---
 
 [IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo)
 
-{{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
+{{< video src=/blog/embed-videos/my-video.mp4" autoplay="true" controls="false" loop="true" >}}
 
 <!--more-->
 
