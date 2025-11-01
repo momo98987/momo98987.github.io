@@ -5,25 +5,11 @@ draft: false
 comments: false
 socialShare: true
 toc: false
-
 ---
 
-[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo)
+[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html)
 
-```html
-<video
-  autoplay
-  loop
-  poster="/blog/embed-videos/my-video.mp4"
-  width="100%"
-  playsinline
->
-  <source src="/blog/embed-videos/my-video.mp4" type="video/mp4" />
-  <source src="/blog/embed-videos/my-video.webm" type="video/webm" />
-</video>
-```
-
-{{< video src=/blog/embed-videos/my-video.mp4" autoplay="true" controls="false" loop="true" >}}
+{{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
 
 <!--more-->
 
@@ -51,7 +37,7 @@ type file is used as `poster` (thumbnail). It will render the following HTML:
 <video
   autoplay
   loop
-  poster="/blog/embed-videos/my-video.mp4"
+  poster="/blog/embed-videos/my-video.jpg"
   width="100%"
   playsinline
 >
