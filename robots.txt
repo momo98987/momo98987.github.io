@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hugo-theme-gruvbox.schnerring.net/sitemap.xml

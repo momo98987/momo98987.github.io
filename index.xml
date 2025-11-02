@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All about me</title><link>https://hugo-theme-gruvbox.schnerring.net/</link><description>Recent content on All about me</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2021</copyright><lastBuildDate>Fri, 24 Oct 2025 01:16:18 +0200</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/index.xml" rel="self" type="application/rss+xml"/><item><title>My Video</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/</link><pubDate>Fri, 24 Oct 2025 01:16:18 +0200</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/</guid><description>&lt;p>&lt;a
+ href="https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps&lt;/a>&lt;/p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ &lt;video
+ autoplay
+ 
+ 
+ loop
+ 
+ poster="/blog/embed-video-files/my-video.jpg"
+ 
+ 
+ playsinline
+ >&lt;source src="https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/my-video.mp4" type="video/mp4" />&lt;source src="https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/my-video.webm" type="video/webm" />&lt;/video></description></item><item><title>ILight Holographic Perception Smart Transportation Project</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/markdown-syntax/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/rich-content/</link><pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a
+ href="https://gohugo.io/content-management/shortcodes/#embedded"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Embedded Shortcodes&lt;/a> for rich content, along with a &lt;a
+ href="https://gohugo.io/about/hugo-and-gdpr/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description></item><item><title>Multi-Functional Smart Street Light Project Based on IoT Perception Network</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/placeholder-text/</link><pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Math Typesetting</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item><item><title>Emoji Support</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item><item><title> ILight Holographic Perception Smart Transportation Project</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/image-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/image-optimization/</guid><description>&lt;p>During my participation in the ILight Holographic Perception Smart Transportation Project, I was deeply involved in the entire process from technology R&amp;amp;D to practical implementation. With the core goal of &amp;ldquo;solving urban traffic pain points and building a new smart transportation ecosystem&amp;rdquo;, the project integrates cutting-edge technologies to create a &amp;ldquo;cloud-edge-end&amp;rdquo; collaborative smart transportation solution. The details can be elaborated from two aspects: core functions and target tasks.&lt;/p>
+&lt;ul>
+&lt;li>Core Functions: Building a &amp;ldquo;Three Modules + One Platform&amp;rdquo; Technical Closed Loop&lt;/li>
+&lt;li>Target Tasks: From Technology Implementation to Value Realization&lt;/li>
+&lt;/ul>
+&lt;h2 id="projects">PROJECTS&lt;a href="#projects" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Use the &lt;a
+ href="https://gohugo.io/content-management/front-matter/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>front matter&lt;/a> of
+your posts to add cover images:&lt;/p></description></item><item><title>About</title><link>https://hugo-theme-gruvbox.schnerring.net/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/about/</guid><description>&lt;h2 id="attributions">Attributions&lt;a href="#attributions" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>This theme depends on the following projects:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a
+ href="https://gohugo.io/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Powered by Hugo&lt;/a>&lt;/li>
+&lt;li>Color scheme based on &lt;a
+ href="https://github.com/morhetz/gruvbox"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Gruvbox&lt;/a>&lt;/li>
+&lt;li>Code Highlighting by &lt;a
+ href="https://prismjs.com/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Prism&lt;/a>&lt;/li>
+&lt;li>&lt;a
+ href="https://tablericons.com/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Tabler Icons&lt;/a>&lt;/li>
+&lt;li>&lt;a
+ href="https://simpleicons.org/"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Simple Icons&lt;/a>&lt;/li>
+&lt;li>Content with the &lt;a
+ href="https://hugo-theme-gruvbox.schnerring.net/tags/hugo-basic-example"
+ 
+ 
+>#hugo-basic-example&lt;/a> tag
+originates from &lt;a
+ href="https://github.com/gohugoio/hugoBasicExample"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>gohugoio/hugoBasicExample&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>A big thanks to the creators! ❤️&lt;/p>
+&lt;p>The &lt;a
+ href="https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>profile picture of Mochi ZHANG is from the Fandom Silicon Valley Wiki&lt;/a>.&lt;/p>
+&lt;h2 id="legal">Legal&lt;a href="#legal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>The theme is &lt;a
+ href="https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>licensed under MIT&lt;/a>.&lt;/p>
+&lt;p>All trademarks are the property of their respective owners.&lt;/p></description></item><item><title>Backend &amp; Data Practice: Solidifying the Technical Foundation</title><link>https://hugo-theme-gruvbox.schnerring.net/blog/prism-code-highlighting-showcase/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/blog/prism-code-highlighting-showcase/</guid><description>&lt;p>In backend development, I focus on building services with Java + SpringBoot as
+the core. I participated in the microservice transformation of a course-based
+e-commerce demo, integrating basic tools to resolve data consistency issues
+between &amp;ldquo;orders and inventory,&amp;rdquo; and optimized interface response time by 30%.
+Meanwhile, I leverage the efficiency of Python: I crawled public industry data
+using Python + Scrapy, and combined Pandas for data cleaning and Matplotlib for
+visualization to provide data support for the &amp;ldquo;user behavior analysis&amp;rdquo; module in
+course projects. Additionally, I completed a small embedded project with C language,
+optimizing the communication protocol parsing logic of simple devices to deepen my
+understanding of underlying technologies.&lt;/p></description></item><item><title>CV</title><link>https://hugo-theme-gruvbox.schnerring.net/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hugo-theme-gruvbox.schnerring.net/cv/</guid><description>&lt;h2 id="experience">Experience&lt;a href="#experience" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+
+
+
+ &lt;div class="jr__list jr-work__list">
+ 
+ &lt;div class="jr__item jr-work__item">
+ &lt;div class="jr__item-meta">
+ &lt;div class="jr-work__position">Java Back-end Program Development Trainee &amp;amp; Group Project Leader&lt;/div>
+ &lt;div class="jr__date-range">
+ &lt;span>2023-12-01&lt;/span>
+ &lt;span>-&lt;/span>
+ &lt;span>2024-01-31&lt;/span>
+&lt;/div>
+
+ 
+ &lt;div class="jr-work__name">
+ 
+ 
+ &lt;span>Tianjin Aiying Technology Co., Ltd. (IBM-ETP Training Base)&lt;/span>
+ 
+ 
+ 
+ &lt;span>—&lt;/span>
+ &lt;span class="jr-work__description">Technology company focusing on IT training and software development&lt;/span>
+ 
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="jr-work__location">Tianjin, China&lt;/div>
+ 
+ &lt;/div>
+
+ &lt;div class="jr__item-content">
+ 
+ &lt;p class="jr-work__summary">Engaged in Java back-end development and led team project implementation, focusing on system function development and security optimization&lt;/p>
+ 
+ 
+ &lt;ul class="jr-work__highlights">
+ 
+ &lt;li>Used IDE tools to build SpringBoot framework, integrated Mybatis-plus, and implemented basic database CRUD operations&lt;/li>
+ 
+ &lt;li>Solved Nurse Rostering Problem (NRP) using greedy algorithm and branch-and-bound method, realizing personalized scheduling function&lt;/li>
+ 
+ &lt;li>Implemented image storage by applying OSS and Redis, and configured related dependencies and service interfaces&lt;/li>
+ 
+ &lt;li>Combined Sa-token and Redis to achieve dual-token triple authentication, enhancing system security&lt;/li>
+ 
+ &lt;li>Responsible for team management, task assignment and progress supervision&lt;/li>
+ 
+ &lt;/ul>
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="jr__item jr-work__item">
+ &lt;div class="jr__item-meta">
+ &lt;div class="jr-work__position">Software Research &amp;amp; Development Intern&lt;/div>
+ &lt;div class="jr__date-range">
+ &lt;span>2023-06-01&lt;/span>
+ &lt;span>-&lt;/span>
+ &lt;span>2023-07-31&lt;/span>
+&lt;/div>
+
+ 
+ &lt;div class="jr-work__name">
+ 
+ 
+ &lt;span>Hegang Digital Technology Joint-Stock Limited Company&lt;/span>
+ 
+ 
+ 
+ &lt;span>—&lt;/span>
+ &lt;span class="jr-work__description">Digital technology enterprise focusing on industrial data management and intelligent detection&lt;/span>
+ 
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="jr-work__location">Hegang, China&lt;/div>
+ 
+ &lt;/div>
+
+ &lt;div class="jr__item-content">
+ 
+ &lt;p class="jr-work__summary">Participated in the development of industrial production data systems and intelligent detection solutions, focusing on efficiency improvement and carbon reduction&lt;/p></description></item></channel></rss>
